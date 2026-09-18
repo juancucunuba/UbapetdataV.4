@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UbaPet</string>
+    <string name="welcome_title">UbaPet</string>
+    <string name="welcome_subtitle">Villa de San Diego de Ubaté</string>
+    <string name="map_hint">Mantén pulsado el mapa para reportar un animal</string>
+    <string name="report_title">Reportar avistamiento</string>
+    <string name="my_reports">Mis reportes</string>
+    <string name="center_ubate">Centrar en Ubaté</string>
+    <string name="save_report">Guardar en el mapa</string>
+    <string name="mark_attended">Marcar como atendido</string>
+    <string name="delete_report">Eliminar reporte</string>
+    <string name="empty_reports">Aún no hay avistamientos</string>
+</resources>
